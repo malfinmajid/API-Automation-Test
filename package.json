@@ -1,0 +1,17 @@
+{
+  "name": "api-automation-test",
+  "version": "1.0.0",
+  "description": "This API Automation Test",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1"
+  }
+}
